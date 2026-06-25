@@ -1,157 +1,171 @@
-# Hi there 👋, I'm Dhiraj Kumar
+<div align="center">
 
-## 🚀 Software Developer | Full-Stack Developer | Computer Science Graduate
+# 🎭 "Every developer has two stories."
 
-I'm a passionate Software Developer who enjoys building scalable web applications and solving real-world problems. I recently completed my **B.Tech in Computer Science Engineering** and am actively looking for opportunities as a **Software Developer** or **Full-Stack Developer**.
+### Hi, I'm **Dhiraj Kumar**
 
-I enjoy learning new technologies, building practical projects, and continuously improving my problem-solving skills.
+*A Computer Science Graduate searching for meaningful code, meaningful products, and meaningful impact.*
 
----
+```
+while(alive){
+    Learn();
+    Build();
+    Fail();
+    Improve();
+    Repeat();
+}
+```
 
-## 👨‍💻 About Me
-
-* 🎓 B.Tech in Computer Science Engineering
-* 💻 Interested in Full-Stack Web Development
-* 🌱 Currently learning System Design and Cloud Technologies
-* ⚡ Love building real-world applications
-* 📈 Always improving my coding and development skills
-* 🎯 Goal: Become a skilled Software Engineer
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-
-* Java
-* JavaScript
-* TypeScript
-* SQL
-
-### Frontend
-
-* React.js
-* HTML5
-* CSS3
-* Tailwind CSS
-* Material UI
-
-### Backend
-
-* Node.js
-* Express.js
-* Spring Boot
-* REST APIs
-
-### Database
-
-* MongoDB
-* MySQL
-
-### Tools
-
-* Git
-* GitHub
-* Postman
-* VS Code
-
-### Core Subjects
-
-* Operating Systems
-* Computer Networks
-* DBMS
-* OOP
-* AI & Machine Learning
+<img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=28&duration=3500&pause=1200&center=true&vCenter=true&width=800&lines=Not+just+writing+code...;I'm+writing+my+own+story.;Curiosity+is+my+superpower.;Every+bug+has+a+lesson.;Every+project+has+a+story." />
 
 ---
 
-## 🚀 Featured Projects
+## 📖 Chapter One — The Beginning
 
-### 📌 Project Management System
+> Once there was a student who loved solving problems more than memorizing answers.
 
-A web application that helps students and faculty manage academic projects digitally.
+🎓 B.Tech — Computer Science Engineering
 
-**Features**
+💻 Full Stack Developer
 
-* Role-based authentication
-* Team management
-* Mentor approval workflow
-* Project tracking
-* File uploads
+☕ Java & Spring Boot Enthusiast
 
-**Tech Stack**
+⚛ React Developer
+
+🚀 Always learning something new.
+
+---
+
+## 🌍 Chapter Two — The Journey
+
+```text
+📍 Current Mission
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⚡ Build impactful applications
+
+⚡ Master Backend Engineering
+
+⚡ Learn System Design
+
+⚡ Contribute to Open Source
+
+⚡ Become an exceptional Software Engineer
+```
+
+---
+
+## 🎒 My Backpack
+
+```javascript
+const dhiraj = {
+  languages: ["Java", "JavaScript", "TypeScript"],
+  frontend: ["React", "HTML", "CSS", "Tailwind"],
+  backend: ["Node.js", "Express", "Spring Boot"],
+  database: ["MongoDB", "MySQL"],
+  tools: ["Git", "GitHub", "Postman", "VS Code"],
+  interests: [
+      "Backend Development",
+      "AI & Machine Learning",
+      "Problem Solving"
+  ]
+}
+```
+
+---
+
+# 🎬 Featured Stories
+
+### 🎭 Story 01 — Project Management System
+
+*"Helping ideas find their destination."*
+
+✨ Role-based authentication
+
+✨ Mentor approval workflow
+
+✨ Team collaboration
+
+✨ File uploads
+
+**Stack**
+
 React • Node.js • Express • MongoDB
 
 ---
 
-### 💬 Real-Time Chat Application
+### 💬 Story 02 — Real-Time Chat
 
-A real-time messaging application using WebSockets.
+*"Every conversation deserves to be instant."*
 
-**Features**
-
-* Live messaging
-* Chat rooms
-* Instant communication
-
-**Tech Stack**
-Spring Boot • React • WebSocket • STOMP
+Spring Boot • WebSockets • React
 
 ---
 
-### 🛒 E-Commerce Backend
+### 🛒 Story 03 — E-Commerce Backend
 
-Backend APIs for an online shopping platform.
+*"Behind every great store is a great backend."*
 
-**Features**
-
-* Authentication
-* Product management
-* Order APIs
-* RESTful architecture
-
-**Tech Stack**
-Java • Spring Boot • MySQL
+Spring Boot • JWT • MySQL
 
 ---
 
-## 📊 GitHub Stats
+# 📈 The Journey So Far
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🏆 Achievements
+# 🌌 Plot Twist
 
-* Solved 300+ coding problems
-* Built multiple Full-Stack applications
-* Strong understanding of Data Structures & Algorithms
-* Passionate about writing clean and maintainable code
+I don't believe programming is only about writing code.
+
+It's about telling stories through products.
+
+Every repository begins with curiosity.
+
+Every commit is a new page.
+
+Every bug is a plot twist.
+
+Every release is another chapter.
 
 ---
 
-## 📫 Connect With Me
+# ☕ Until the Next Chapter...
 
-* Email: [your.email@gmail.com](mailto:your.email@gmail.com)
-* LinkedIn: https://linkedin.com/in/your-profile
-* Portfolio: https://yourportfolio.com
+```text
+Life is short.
+
+Build things.
+
+Break things.
+
+Fix things.
+
+Keep learning.
+
+Never stop exploring.
+```
 
 ---
 
-## 💡 Quote
+<div align="center">
 
-> "Code. Learn. Build. Repeat."
+### 🎭 "The best stories are the ones you choose to write yourself."
 
-⭐ Thanks for visiting my profile!
+⭐ Welcome to my GitHub.
+
+</div>
