@@ -1,171 +1,228 @@
 <div align="center">
 
-# 🎭 "Every developer has two stories."
+<img src="./assets/tamasha-banner.png" width="420">
 
-### Hi, I'm **Dhiraj Kumar**
+# 🎭 DHIRAJ KUMAR
 
-*A Computer Science Graduate searching for meaningful code, meaningful products, and meaningful impact.*
+### *"Not all those who wander are lost. Some are simply discovering who they're meant to become."*
 
-```
-while(alive){
-    Learn();
-    Build();
-    Fail();
-    Improve();
-    Repeat();
-}
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=600&size=30&pause=1200&color=E67E22&center=true&vCenter=true&width=850&lines=Full+Stack+Developer.;Java+%7C+Spring+Boot+Developer.;React+Developer.;Every+commit+is+a+new+chapter.;Welcome+to+my+journey." />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=28&duration=3500&pause=1200&center=true&vCenter=true&width=800&lines=Not+just+writing+code...;I'm+writing+my+own+story.;Curiosity+is+my+superpower.;Every+bug+has+a+lesson.;Every+project+has+a+story." />
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Dhiru9262\&style=flat-square\&color=orange)
+
+</div>
 
 ---
 
-## 📖 Chapter One — The Beginning
+# 🎬 OPENING SCENE
 
-> Once there was a student who loved solving problems more than memorizing answers.
+> *Some people collect memories.*
+>
+> *I collect ideas.*
+>
+> *Some become stories.*
+>
+> *Some become software.*
 
-🎓 B.Tech — Computer Science Engineering
+Hello! I'm **Dhiraj**, a Computer Science graduate from India who enjoys transforming ideas into products. Every project I build teaches me something new, and every challenge pushes me to grow as both a developer and a person.
 
-💻 Full Stack Developer
+I don't see GitHub as a place to store code.
 
-☕ Java & Spring Boot Enthusiast
-
-⚛ React Developer
-
-🚀 Always learning something new.
-
----
-
-## 🌍 Chapter Two — The Journey
-
-```text
-📍 Current Mission
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-⚡ Build impactful applications
-
-⚡ Master Backend Engineering
-
-⚡ Learn System Design
-
-⚡ Contribute to Open Source
-
-⚡ Become an exceptional Software Engineer
-```
+I see it as the diary of my learning journey.
 
 ---
 
-## 🎒 My Backpack
+# 📖 ACT I — THE CHARACTER
 
-```javascript
-const dhiraj = {
-  languages: ["Java", "JavaScript", "TypeScript"],
-  frontend: ["React", "HTML", "CSS", "Tailwind"],
-  backend: ["Node.js", "Express", "Spring Boot"],
-  database: ["MongoDB", "MySQL"],
-  tools: ["Git", "GitHub", "Postman", "VS Code"],
-  interests: [
-      "Backend Development",
-      "AI & Machine Learning",
-      "Problem Solving"
-  ]
-}
+```yaml
+Name: Dhiraj Kumar
+
+Username: Dhiru9262
+
+Role: Full Stack Developer
+
+Education:
+  B.Tech Computer Science Engineering
+
+Currently:
+  Building projects
+  Solving coding problems
+  Learning System Design
+
+Dream:
+  Build software that makes life easier.
 ```
 
 ---
 
-# 🎬 Featured Stories
-
-### 🎭 Story 01 — Project Management System
-
-*"Helping ideas find their destination."*
-
-✨ Role-based authentication
-
-✨ Mentor approval workflow
-
-✨ Team collaboration
-
-✨ File uploads
-
-**Stack**
-
-React • Node.js • Express • MongoDB
-
----
-
-### 💬 Story 02 — Real-Time Chat
-
-*"Every conversation deserves to be instant."*
-
-Spring Boot • WebSockets • React
-
----
-
-### 🛒 Story 03 — E-Commerce Backend
-
-*"Behind every great store is a great backend."*
-
-Spring Boot • JWT • MySQL
-
----
-
-# 📈 The Journey So Far
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dhiru9262&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhiru9262&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🌌 Plot Twist
-
-I don't believe programming is only about writing code.
-
-It's about telling stories through products.
-
-Every repository begins with curiosity.
-
-Every commit is a new page.
-
-Every bug is a plot twist.
-
-Every release is another chapter.
-
----
-
-# ☕ Until the Next Chapter...
-
-```text
-Life is short.
-
-Build things.
-
-Break things.
-
-Fix things.
-
-Keep learning.
-
-Never stop exploring.
-```
-
----
+# 🎒 ACT II — MY TOOLKIT
 
 <div align="center">
 
-### 🎭 "The best stories are the ones you choose to write yourself."
+### Languages
 
-⭐ Welcome to my GitHub.
+<img src="https://skillicons.dev/icons?i=java,js,ts"/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring"/>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+
+</div>
+
+---
+
+# 🎥 ACT III — STORIES I'VE BUILT
+
+## 📚 Project Management System
+
+> Helping students and mentors collaborate digitally.
+
+✨ Role-Based Authentication
+
+✨ Team Collaboration
+
+✨ Mentor Approval Workflow
+
+✨ Project Tracking
+
+✨ File Upload
+
+**Tech**
+
+`React` • `Node.js` • `Express` • `MongoDB`
+
+---
+
+## 💬 Real-Time Chat Application
+
+Instant communication powered by WebSockets.
+
+**Stack**
+
+`Spring Boot` • `React` • `STOMP`
+
+---
+
+## 🛒 E-Commerce Backend
+
+Secure backend APIs built using Spring Boot.
+
+**Stack**
+
+`Java` • `Spring Boot` • `MySQL`
+
+---
+
+# 📈 ACT IV — THE JOURNEY SO FAR
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dhiru9262&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhiru9262&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Dhiru9262&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhiru9262&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌄 ACT V — CURRENT QUEST
+
+```text
+🎯 Master System Design
+
+🚀 Learn Cloud Technologies
+
+💻 Build Scalable Applications
+
+🌍 Contribute to Open Source
+
+📚 Never Stop Learning
+```
+
+---
+
+# ☕ INTERMISSION
+
+```java
+while(alive){
+
+    Learn();
+
+    Build();
+
+    Fail();
+
+    Improve();
+
+    Repeat();
+
+}
+```
+
+---
+
+# 🌌 ACT VI — BEYOND THE SCREEN
+
+Programming isn't just writing code.
+
+It's solving problems.
+
+It's creating experiences.
+
+It's making life a little easier for someone you'll probably never meet.
+
+That's why I build.
+
+---
+
+# 🎞️ END CREDITS
+
+<div align="center">
+
+### Let's Connect
+
+💼 LinkedIn
+
+📧 Email
+
+🌐 Portfolio
+
+⭐ If you like my work, consider giving a ⭐ to a repository.
+
+---
+
+### *"The best version of me is still loading..."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
 
 </div>
